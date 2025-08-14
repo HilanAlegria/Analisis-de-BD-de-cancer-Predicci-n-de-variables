@@ -1,2 +1,2 @@
-# Analisis-de-BD-de-cancer-Predicci-n-de-variables
-Trabajo Analisis de BD de cancer Predicción de variables
+# Analisis de BD de Cancer Prediccion de variables
+## Trabajo Realizado en Google Colab sobre Analisis de uina base de datos sobre el cancer y predicciónes atraves de variables
