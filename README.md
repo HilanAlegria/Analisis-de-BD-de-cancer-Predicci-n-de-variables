@@ -30,6 +30,10 @@ readme_content = """# Análisis y Predicción de Supervivencia en Cáncer de Mam
 
 ---
 
+## Equipo de trabajo (no hicieron mucho)
+
+- Selene Arcos 
+
 ## 🚀 Ejecución del Proyecto
 1. Clonar el repositorio:
    ```bash
